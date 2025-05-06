@@ -12,7 +12,7 @@ Det er valgfrit om du vil bruge det udleverede API som datagrundlag eller om du 
 
 - Din frontend løsning skal skrives i React
 - Du skal hente produkterne fra API´et og vise disse i en liste
-  Siden skal være mobile friendly og fungerere på alle skærmstørrelser
+  Siden skal være mobile friendly og fungerere på alle skærmstørrelser (mobil design er op til dig, men der er lidt inspiration i designet)
 - Der skal være en forside, en alle produkter side, en produkt side (med et individuelt produkt) og en checkout side
 - Det skal være muligt at gå til checkout, samt udfylde en formular med de påkrævede felter. Formularen skal valideres inden man kan trykke videre.
 - Det skal være muligt at tilføje til kurv samt redigere antal og slette produkter til kurven
