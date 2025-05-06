@@ -32,12 +32,13 @@ _Hvis du bliver hurtigt færdig er her nogle "bonus krav" du kan øve dig med. D
 
 ## Design:
 
-Link til design filerne fra figma: Figma Design Fil
-Alle logo´er kan findes på icons8 og alle fonte på google fonts.
+Link til design filerne fra figma: [Figma Design](https://www.figma.com/design/qRkwh02uDRyqWKsqABfyTx/Sunshine-Coffee?node-id=885-13&t=TPDwnup0FwGi6CFN-1)
+
+Alle logo´er kan findes på icons8 og alle fonts på Google Fonts.
 
 ## API:
 
 Vedlagt i denne opgave er et API der indeholder alle produkter og mulighed for at lave login, samt sign up.
-Inde i "backend" mappen ligger der en README fil, med instruktioner til opsætning af API´et. Start med at følge denne guide når du opsætter API´et. Dokumentation til API´et findes her: Postman Dokumentation
+Inde i "backend" mappen ligger der en README fil, med instruktioner til opsætning af API´et. Start med at følge denne guide når du opsætter API´et. Dokumentation til API´et findes her: [Postman Dokumentation](https://documenter.getpostman.com/view/31531123/2sB2j6BB2o)
 
 God fornøjelse
